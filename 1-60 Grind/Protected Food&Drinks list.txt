@@ -1,0 +1,40 @@
+Drink:
+
+Refreshing Spring Water
+Ice Cold Milk
+Melon Juice
+Sweet Nectar
+Moonberry Juice
+Morning Glory Dew
+Star's Lament
+Footman's Waterskin
+Grunt's Waterskin
+Filtered Draenic Water
+
+
+Food:
+
+Shiny Red Apple
+Tough Hunk of Bread
+Tough Jerky
+Freshly Baked Bread
+Haunch of Meat
+Tel'Abim Banana
+Moist Cornbread
+Mutton Chop
+Snapvine Watermelon
+Goldenbark Apple
+Mulgore Spice Bread
+Wild Hog Shank
+Hot Wolf Ribs
+Cured Ham Steak
+Moon Harvest Pumpkin
+Soft Banana Bread
+Alterac Swiss
+Deep Fried Plantains
+Homemade Cherry Pie
+Roasted Quail
+Garadar Sharp
+Mag'har Grainbread
+Skethyl Berries
+Smoked Talbuk Venison
