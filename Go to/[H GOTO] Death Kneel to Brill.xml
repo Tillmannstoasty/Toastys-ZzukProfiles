@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Tirisfal Glades 32/61 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 32/61 -->
+			<X>1982.036</X>
+			<Y>1565.25</Y>
+			<Z>78.83887</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 36/59 -->
+			<X>2032.49</X>
+			<Y>1404.333</Y>
+			<Z>60.52906</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 38/56 -->
+			<X>2132.762</X>
+			<Y>1306.68</Y>
+			<Z>53.76506</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 38/55 -->
+			<X>2164.488</X>
+			<Y>1298.08</Y>
+			<Z>53.80847</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 38/55 -->
+			<X>2163.746</X>
+			<Y>1274.755</Y>
+			<Z>52.95836</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 53/53 -->
+			<X>2232.326</X>
+			<Y>607.9395</Y>
+			<Z>33.41278</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 60/52 -->
+			<X>2244.306</X>
+			<Y>281.565</Y>
+			<Z>34.60741</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+</Profile>

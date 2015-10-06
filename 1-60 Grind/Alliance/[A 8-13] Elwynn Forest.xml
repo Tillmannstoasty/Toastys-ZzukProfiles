@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Elwynn Forest 48/70 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 48/70 -->
+			<X>-9567.443</X>
+			<Y>-159.1198</Y>
+			<Z>57.89171</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 49/73 -->
+			<X>-9649.242</X>
+			<Y>-173.6794</Y>
+			<Z>51.60603</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 49/75 -->
+			<X>-9692.555</X>
+			<Y>-179.9059</Y>
+			<Z>45.15145</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 48/76 -->
+			<X>-9709.48</X>
+			<Y>-139.5033</Y>
+			<Z>39.04361</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 47/74 -->
+			<X>-9664.485</X>
+			<Y>-118.435</Y>
+			<Z>43.60762</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 46/76 -->
+			<X>-9701.229</X>
+			<Y>-73.81066</Y>
+			<Z>38.63473</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 45/76 -->
+			<X>-9707.792</X>
+			<Y>-42.24859</Y>
+			<Z>38.83414</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 44/78 -->
+			<X>-9751.762</X>
+			<Y>-21.15011</Y>
+			<Z>33.85577</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 44/79 -->
+			<X>-9777.495</X>
+			<Y>-0.3098783</Y>
+			<Z>30.45164</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 43/81 -->
+			<X>-9827.934</X>
+			<Y>36.34361</Y>
+			<Z>32.22638</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 44/81 -->
+			<X>-9825.625</X>
+			<Y>5.289331</Y>
+			<Z>26.59916</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 44/83 -->
+			<X>-9874.704</X>
+			<Y>-14.2408</Y>
+			<Z>26.28289</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 45/83 -->
+			<X>-9880.511</X>
+			<Y>-42.82462</Y>
+			<Z>27.97167</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 45/85 -->
+			<X>-9908.044</X>
+			<Y>-60.08345</Y>
+			<Z>29.85765</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 46/85 -->
+			<X>-9914.207</X>
+			<Y>-84.95759</Y>
+			<Z>29.14467</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 48/84 -->
+			<X>-9902.188</X>
+			<Y>-132.7139</Y>
+			<Z>31.87829</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 49/82 -->
+			<X>-9857.259</X>
+			<Y>-167.3685</Y>
+			<Z>34.37299</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 49/79 -->
+			<X>-9769.637</X>
+			<Y>-199.548</Y>
+			<Z>38.74083</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>44</Faction>
+		<Faction>189</Faction>
+		<Faction>17</Faction>
+	</Factions>
+	<VendorHotspots>
+		<VendorHotspot>
+			<!-- Pos: 41/65 -->
+			<X>-9461.389</X>
+			<Y>87.58731</Y>
+			<Z>58.32812</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+	</VendorHotspots>
+	<Repair>
+		<!-- Pos: 41/65 -->
+		<Position>
+			<X>-9462.29</X>
+			<Y>87.8151</Y>
+			<Z>58.33984</Z>
+		</Position>
+		<Name>Andrew Krighton</Name>
+	</Repair>
+	<GhostHotspots />
+</Profile>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Orgrimmar 46/5 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 46/5 -->
+			<X>1619.482</X>
+			<Y>-4429.147</Y>
+			<Z>11.87783</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 46/17 -->
+			<X>1179.825</X>
+			<Y>-4402.908</Y>
+			<Z>21.94042</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 43/28 -->
+			<X>816.3673</X>
+			<Y>-4257.811</Y>
+			<Z>21.06693</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 34/42 -->
+			<X>318.7309</X>
+			<Y>-3801.083</Y>
+			<Z>25.32596</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 51/29 -->
+			<X>-411.4843</X>
+			<Y>-2645.255</Y>
+			<Z>96.22308</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<GhostHotspots />
+</Profile>

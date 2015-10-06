@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Duskwood 73/46 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 73/46 -->
+			<X>-10558.06</X>
+			<Y>-1157.087</Y>
+			<Z>28.03471</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 74/48 -->
+			<X>-10585.48</X>
+			<Y>-1174.992</Y>
+			<Z>28.64658</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 74/52 -->
+			<X>-10669.03</X>
+			<Y>-1191.411</Y>
+			<Z>27.85078</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 73/57 -->
+			<X>-10746.83</X>
+			<Y>-1149.747</Y>
+			<Z>26.73094</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 69/60 -->
+			<X>-10802.99</X>
+			<Y>-1031.569</Y>
+			<Z>46.81981</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 67/60 -->
+			<X>-10805.09</X>
+			<Y>-978.0634</Y>
+			<Z>55.5869</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 64/60 -->
+			<X>-10802.8</X>
+			<Y>-896.3893</Y>
+			<Z>55.95341</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 60/63 -->
+			<X>-10854.52</X>
+			<Y>-786.9157</Y>
+			<Z>56.37271</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 56/67 -->
+			<X>-10923.33</X>
+			<Y>-697.8699</Y>
+			<Z>55.71274</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 53/68 -->
+			<X>-10953.74</X>
+			<Y>-615.8995</Y>
+			<Z>54.95585</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 49/66 -->
+			<X>-10910.45</X>
+			<Y>-499.6225</Y>
+			<Z>51.16398</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 45/66 -->
+			<X>-10905.21</X>
+			<Y>-402.2959</Y>
+			<Z>41.00192</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 44/67 -->
+			<X>-10936.89</X>
+			<Y>-361.2829</Y>
+			<Z>39.77394</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 44/78 -->
+			<X>-11128.71</X>
+			<Y>-374.3991</Y>
+			<Z>45.58418</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 46/79 -->
+			<X>-11222.09</X>
+			<Y>-379.2237</Y>
+			<Z>52.25239</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 44/87 -->
+			<X>-11293.25</X>
+			<Y>-369.1897</Y>
+			<Z>64.53876</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 45/90 -->
+			<X>-11347.49</X>
+			<Y>-381.8854</Y>
+			<Z>65.50264</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 39/5 -->
+			<X>-11392.92</X>
+			<Y>-287.4178</Y>
+			<Z>58.98397</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 39/7 -->
+			<X>-11483.03</X>
+			<Y>-287.7436</Y>
+			<Z>36.91711</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 39/10 -->
+			<X>-11608.77</X>
+			<Y>-277.1318</Y>
+			<Z>38.96499</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 38/12 -->
+			<X>-11706.75</X>
+			<Y>-211.8363</Y>
+			<Z>39.55508</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 37/12 -->
+			<X>-11702.14</X>
+			<Y>-151.6329</Y>
+			<Z>31.71123</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 36/12 -->
+			<X>-11702.76</X>
+			<Y>-127.2096</Y>
+			<Z>16.53118</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 36/11 -->
+			<X>-11678.58</X>
+			<Y>-86.32429</Y>
+			<Z>17.68352</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 35/10 -->
+			<X>-11636.19</X>
+			<Y>-72.8279</Y>
+			<Z>12.33194</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 35/10 -->
+			<X>-11623.46</X>
+			<Y>-61.56229</Y>
+			<Z>10.9461</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Repair>
+		<!-- Pos: 35/10 -->
+		<Position>
+			<X>-11622.1</X>
+			<Y>-60.6165</Y>
+			<Z>10.95668</Z>
+		</Position>
+		<Name>Jaquilina Dramet</Name>
+	</Repair>
+</Profile>

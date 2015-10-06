@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Elwynn Forest 47/42 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 47/42 -->
+			<X>-8930.199</X>
+			<Y>-126.6809</Y>
+			<Z>82.05186</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 46/46 -->
+			<X>-9005.554</X>
+			<Y>-68.77734</Y>
+			<Z>86.59095</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 45/48 -->
+			<X>-9059.965</X>
+			<Y>-42.23991</Y>
+			<Z>88.21449</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 46/52 -->
+			<X>-9144.011</X>
+			<Y>-94.23758</Y>
+			<Z>74.88327</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 47/53 -->
+			<X>-9173.128</X>
+			<Y>-112.3409</Y>
+			<Z>71.53804</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 46/56 -->
+			<X>-9244.893</X>
+			<Y>-95.55925</Y>
+			<Z>70.55724</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 42/65 -->
+			<X>-9463.759</X>
+			<Y>63.86949</Y>
+			<Z>55.85837</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<GhostHotspots />
+</Profile>

@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Elwynn Forest 39/61 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 39/61 -->
+			<X>-9369.308</X>
+			<Y>162.5021</Y>
+			<Z>62.11021</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 38/62 -->
+			<X>-9386.4</X>
+			<Y>190.7228</Y>
+			<Z>60.92103</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 38/63 -->
+			<X>-9411.298</X>
+			<Y>203.3424</Y>
+			<Z>60.5723</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 37/64 -->
+			<X>-9433.471</X>
+			<Y>236.7761</Y>
+			<Z>60.30133</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 36/63 -->
+			<X>-9403.638</X>
+			<Y>252.0857</Y>
+			<Z>61.54531</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 36/61 -->
+			<X>-9353.658</X>
+			<Y>258.0687</Y>
+			<Z>64.78743</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 35/60 -->
+			<X>-9343.467</X>
+			<Y>289.137</Y>
+			<Z>67.59189</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 35/61 -->
+			<X>-9353.914</X>
+			<Y>306.0199</Y>
+			<Z>66.49757</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 34/62 -->
+			<X>-9378.644</X>
+			<Y>325.7177</Y>
+			<Z>60.07856</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 36/65 -->
+			<X>-9456.135</X>
+			<Y>278.6496</Y>
+			<Z>52.92984</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 36/66 -->
+			<X>-9469.203</X>
+			<Y>256.6938</Y>
+			<Z>53.48063</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>38</Faction>
+		<Faction>22</Faction>
+		<Faction>17</Faction>
+	</Factions>
+	<VendorHotspots>
+		<VendorHotspot>
+			<!-- Pos: 41/65 -->
+			<X>-9461.171</X>
+			<Y>89.63509</Y>
+			<Z>58.32246</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+	</VendorHotspots>
+	<Repair>
+		<!-- Pos: 41/65 -->
+		<Position>
+			<X>-9462.29</X>
+			<Y>87.8151</Y>
+			<Z>58.33875</Z>
+		</Position>
+		<Name>Andrew Krighton</Name>
+	</Repair>
+	<GhostHotspots />
+</Profile>

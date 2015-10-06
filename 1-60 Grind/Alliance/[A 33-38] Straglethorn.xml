@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Stranglethorn Vale 37/15 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 37/15 -->
+			<X>-11835.91</X>
+			<Y>-164.6278</Y>
+			<Z>15.13369</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 37/15 -->
+			<X>-11844.69</X>
+			<Y>-196.5524</Y>
+			<Z>18.80792</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 38/15 -->
+			<X>-11837.21</X>
+			<Y>-223.6362</Y>
+			<Z>16.99097</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 38/16 -->
+			<X>-11879.88</X>
+			<Y>-251.6634</Y>
+			<Z>16.07496</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 38/18 -->
+			<X>-11948.58</X>
+			<Y>-254.0365</Y>
+			<Z>14.60118</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 38/17 -->
+			<X>-11920.9</X>
+			<Y>-211.9269</Y>
+			<Z>15.85088</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 37/18 -->
+			<X>-11946.84</X>
+			<Y>-183.1482</Y>
+			<Z>17.08124</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 37/17 -->
+			<X>-11930.07</X>
+			<Y>-156.4677</Y>
+			<Z>14.3383</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 36/18 -->
+			<X>-11946.38</X>
+			<Y>-119.1223</Y>
+			<Z>8.106771</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 36/18 -->
+			<X>-11966.1</X>
+			<Y>-83.44978</Y>
+			<Z>3.560025</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 35/19 -->
+			<X>-11981.32</X>
+			<Y>-16.04794</Y>
+			<Z>15.48882</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 35/19 -->
+			<X>-12011.11</X>
+			<Y>-41.76016</Y>
+			<Z>15.94303</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 34/19 -->
+			<X>-11979.65</X>
+			<Y>7.991992</Y>
+			<Z>16.18979</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 34/19 -->
+			<X>-11993.16</X>
+			<Y>48.30256</Y>
+			<Z>7.722385</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 33/18 -->
+			<X>-11951.04</X>
+			<Y>70.19544</Y>
+			<Z>15.40174</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 33/17 -->
+			<X>-11915.48</X>
+			<Y>52.88998</Y>
+			<Z>16.71025</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 34/16 -->
+			<X>-11881.63</X>
+			<Y>48.95759</Y>
+			<Z>22.1183</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 33/16 -->
+			<X>-11854.61</X>
+			<Y>58.41621</Y>
+			<Z>15.29824</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 34/14 -->
+			<X>-11803.43</X>
+			<Y>43.44138</Y>
+			<Z>15.9948</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 34/14 -->
+			<X>-11785.42</X>
+			<Y>36.48859</Y>
+			<Z>16.00409</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 34/13 -->
+			<X>-11759.65</X>
+			<Y>28.7566</Y>
+			<Z>18.02649</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 34/13 -->
+			<X>-11753.6</X>
+			<Y>17.27821</Y>
+			<Z>17.6549</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 34/12 -->
+			<X>-11712.11</X>
+			<Y>4.368668</Y>
+			<Z>15.90821</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 34/12 -->
+			<X>-11690.91</X>
+			<Y>-10.58142</Y>
+			<Z>16.13749</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 35/12 -->
+			<X>-11710.24</X>
+			<Y>-59.05727</Y>
+			<Z>15.48406</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 36/13 -->
+			<X>-11738.43</X>
+			<Y>-115.0655</Y>
+			<Z>3.977381</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 37/14 -->
+			<X>-11785.7</X>
+			<Y>-156.4128</Y>
+			<Z>8.165601</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>72</Faction>
+		<Faction>16</Faction>
+		<Faction>28</Faction>
+	</Factions>
+	<VendorHotspots>
+		<VendorHotspot>
+			<!-- Pos: 37/14 -->
+			<X>-11779.34</X>
+			<Y>-150.2626</Y>
+			<Z>6.035521</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 36/13 -->
+			<X>-11735.38</X>
+			<Y>-111.4959</Y>
+			<Z>3.942138</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 35/13 -->
+			<X>-11721.91</X>
+			<Y>-75.48351</Y>
+			<Z>10.52448</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 35/12 -->
+			<X>-11692.09</X>
+			<Y>-64.67384</Y>
+			<Z>17.44101</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 35/11 -->
+			<X>-11647.33</X>
+			<Y>-67.66832</Y>
+			<Z>11.78196</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 35/10 -->
+			<X>-11624.01</X>
+			<Y>-60.88449</Y>
+			<Z>10.94448</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+	</VendorHotspots>
+	<Repair>
+		<!-- Pos: 35/10 -->
+		<Position>
+			<X>-11622.1</X>
+			<Y>-60.6165</Y>
+			<Z>10.95549</Z>
+		</Position>
+		<Name>Jaquilina Dramet</Name>
+	</Repair>
+</Profile>

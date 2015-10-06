@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Durotar 40/20 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 40/20 -->
+			<X>1084.717</X>
+			<Y>-4109.575</Y>
+			<Z>18.39061</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 40/21 -->
+			<X>1050.506</X>
+			<Y>-4106.252</Y>
+			<Z>18.18892</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 39/21 -->
+			<X>1035.425</X>
+			<Y>-4054.437</Y>
+			<Z>17.68134</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 38/21 -->
+			<X>1065.724</X>
+			<Y>-4004.981</Y>
+			<Z>21.67238</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 38/20 -->
+			<X>1096.484</X>
+			<Y>-3974.663</Y>
+			<Z>19.86316</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 38/17 -->
+			<X>1195.63</X>
+			<Y>-3984.189</Y>
+			<Z>17.74333</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 39/16 -->
+			<X>1212.248</X>
+			<Y>-4036.639</Y>
+			<Z>18.35089</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 40/17 -->
+			<X>1201.733</X>
+			<Y>-4082.66</Y>
+			<Z>20.10491</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 40/16 -->
+			<X>1233.5</X>
+			<Y>-4096.452</Y>
+			<Z>23.56127</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 41/16 -->
+			<X>1217.931</X>
+			<Y>-4138.816</Y>
+			<Z>23.53347</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 41/16 -->
+			<X>1224.671</X>
+			<Y>-4182.905</Y>
+			<Z>24.55325</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 43/17 -->
+			<X>1208.063</X>
+			<Y>-4241.398</Y>
+			<Z>24.90656</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 42/17 -->
+			<X>1186.852</X>
+			<Y>-4226.169</Y>
+			<Z>24.48223</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 42/18 -->
+			<X>1161.966</X>
+			<Y>-4205.923</Y>
+			<Z>22.42992</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>189</Faction>
+		<Faction>413</Faction>
+		<Faction>48</Faction>
+	</Factions>
+	<VendorHotspots>
+		<VendorHotspot>
+			<!-- Pos: 46/3 -->
+			<X>1691.483</X>
+			<Y>-4413.117</Y>
+			<Z>21.66877</Z>
+			<Type>Waypoint</Type>
+		</VendorHotspot>
+	</VendorHotspots>
+	<Repair>
+		<!-- Pos: 46/3 -->
+		<Position>
+			<X>1692.69</X>
+			<Y>-4412.03</Y>
+			<Z>21.66096</Z>
+		</Position>
+		<Name>Kaja</Name>
+	</Repair>
+	<GhostHotspots>
+		<GhostHotspot>
+			<!-- Pos: 47/17 -->
+			<X>1181.738</X>
+			<Y>-4459.992</Y>
+			<Z>21.33931</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+	</GhostHotspots>
+</Profile>

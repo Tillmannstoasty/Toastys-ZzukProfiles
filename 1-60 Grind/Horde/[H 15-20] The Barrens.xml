@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: The Barrens 49/42 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 49/42 -->
+			<X>-1229.322</X>
+			<Y>-2423.181</Y>
+			<Z>93.18358</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 49/42 -->
+			<X>-1233.186</X>
+			<Y>-2399.832</Y>
+			<Z>91.66681</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 49/42 -->
+			<X>-1274.286</X>
+			<Y>-2371.972</Y>
+			<Z>91.6674</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 49/41 -->
+			<X>-1211.182</X>
+			<Y>-2350.553</Y>
+			<Z>91.66718</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 48/41 -->
+			<X>-1195.959</X>
+			<Y>-2326.123</Y>
+			<Z>92.32253</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 49/40 -->
+			<X>-1154.678</X>
+			<Y>-2358.058</Y>
+			<Z>92.33729</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 49/40 -->
+			<X>-1130.184</X>
+			<Y>-2348.967</Y>
+			<Z>93.73724</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 49/39 -->
+			<X>-1081.157</X>
+			<Y>-2374.21</Y>
+			<Z>91.66708</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 49/39 -->
+			<X>-1048.271</X>
+			<Y>-2407.134</Y>
+			<Z>94.10107</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 50/39 -->
+			<X>-1022.527</X>
+			<Y>-2447.591</Y>
+			<Z>92.26249</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 49/41 -->
+			<X>-1168.035</X>
+			<Y>-2366.574</Y>
+			<Z>91.66673</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 49/41 -->
+			<X>-1203.885</X>
+			<Y>-2387.266</Y>
+			<Z>93.65735</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>38</Faction>
+		<Faction>189</Faction>
+		<Faction>48</Faction>
+	</Factions>
+	<VendorHotspots>
+		<VendorHotspot>
+			<!-- Pos: 50/39 -->
+			<X>-1086.729</X>
+			<Y>-2444.767</Y>
+			<Z>92.80448</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 50/37 -->
+			<X>-936.04</X>
+			<Y>-2491.314</Y>
+			<Z>94.57458</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 51/35 -->
+			<X>-789.2532</X>
+			<Y>-2578.94</Y>
+			<Z>91.70737</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 52/32 -->
+			<X>-599.5402</X>
+			<Y>-2649.435</Y>
+			<Z>95.7882</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 52/30 -->
+			<X>-458.9759</X>
+			<Y>-2646.436</Y>
+			<Z>95.65033</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 51/29 -->
+			<X>-375.1529</X>
+			<Y>-2565.916</Y>
+			<Z>95.74297</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 51/29 -->
+			<X>-359.2226</X>
+			<Y>-2567.022</Y>
+			<Z>95.78643</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+	</VendorHotspots>
+	<Repair>
+		<!-- Pos: 51/29 -->
+		<Position>
+			<X>-356.996</X>
+			<Y>-2568.86</Y>
+			<Z>95.78754</Z>
+		</Position>
+		<Name>Nargal Deatheye</Name>
+	</Repair>
+</Profile>
